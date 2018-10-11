@@ -53,3 +53,4 @@
 		deck.add(new Card("two", "spades", 2));
 		deck.add(new Card("two", "diamonds", 2));
 		}
+	//thank you Mr. McGuire!
